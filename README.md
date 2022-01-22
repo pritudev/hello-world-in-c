@@ -1,2 +1,2 @@
-# hello-world-in-c
+# Hello World In C language
 This is awesome code 🚗
